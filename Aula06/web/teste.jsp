@@ -21,6 +21,6 @@
         %>
         <h2>Data do servidor utilizando expression:</h2>
         <h3><%=new Date()%></h3>
-        <a href="form.jsp">Exercício form</a>
+        <a href="home.jsp">Página Inicial</a><br/>
     </body>
 </html>

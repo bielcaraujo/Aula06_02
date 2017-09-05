@@ -26,6 +26,6 @@
             <h2>Você se chama <u><%=nome%></u></h2><br/>
             <h2>...e tem <u><%=idade%></u> anos</h2><br/><br/>
         <%}%>
-        <a href="teste.jsp">Página inicial</a>
+        <a href="home.jsp">Página inicial</a>
     </body>
 </html>
