@@ -3,7 +3,7 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>random</title>
+        <title>Exercício Randomico</title>
     </head>
     <body>
         <h1>Número aletórios</h1>
